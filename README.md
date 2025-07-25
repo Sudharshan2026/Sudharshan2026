@@ -1,6 +1,6 @@
 <!-- Centered Avatar -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Sudharshan2026?v=4" width="150" style="border-radius: 50%" alt="Sudharshan's Avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/2527354?v=4" width="150" style="border-radius: 50%" alt="Sudharshan's Avatar"/>
 </p>
 
 <!-- Typing Animation Header -->
