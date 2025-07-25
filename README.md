@@ -1,6 +1,6 @@
 <!-- Centered Avatar -->
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/2527354?v=4](https://instagram.fmaa2-4.fna.fbcdn.net/v/t51.2885-19/359576332_790393809251381_2049314944258136386_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmaa2-4.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QHqoVIboLwMgKQHxXHzYpraLZi980gymoWaLnVwXX873EZK2rRRG06gRhORGphHKUsvJH7_EsRjMC9po616ZRRi&_nc_ohc=I5kstg6-6JsQ7kNvwFfa8r3&_nc_gid=7GK3P3Pi0wqX-8N_fX86jw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfQYtqL3MetAnmYnUa6oH4mYhy0oklvKcUE6Kmu_4KdSRQ&oe=6889868A&_nc_sid=7a9f4b)" width="150" style="border-radius: 50%" alt="Sudharshan's Avatar"/>
+  <img src="https://instagram.fmaa2-4.fna.fbcdn.net/v/t51.2885-19/359576332_790393809251381_2049314944258136386_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmaa2-4.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QHqoVIboLwMgKQHxXHzYpraLZi980gymoWaLnVwXX873EZK2rRRG06gRhORGphHKUsvJH7_EsRjMC9po616ZRRi&_nc_ohc=I5kstg6-6JsQ7kNvwFfa8r3&_nc_gid=7GK3P3Pi0wqX-8N_fX86jw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfQYtqL3MetAnmYnUa6oH4mYhy0oklvKcUE6Kmu_4KdSRQ&oe=6889868A&_nc_sid=7a9f4b" width="150" style="border-radius: 50%" alt="Sudharshan's Avatar"/>
 </p>
 
 <!-- Typing Animation Header -->
