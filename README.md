@@ -90,13 +90,6 @@
 </p>
 
 ---
-
-## 🧪 Languages I Use Most
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharshan2026&theme=radical&layout=compact" width="50%" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
