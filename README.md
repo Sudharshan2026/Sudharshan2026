@@ -80,6 +80,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -90,6 +91,7 @@
 </p>
 
 ---
+-->
 ---
 
 ## 🐍 Contribution Snake
@@ -103,7 +105,7 @@
 ## 🧰 Favorite Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,vercel,ts,nodejs,flask,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,react,pytorch,vercel,ts,nodejs,flask,figma,git,kubernetes,docker,linux,redhat" />
 </p>
 
 ---
@@ -115,17 +117,3 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sudharshan2026)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Sudharshan-j5p)
 
----
-
-## 👁️ Visitors Count
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sudharshan2026&label=Profile%20Views&color=1&icon=5&pretty=false" />
-</p>
-
----
-
-<p align="center">
-  <strong>Thanks for scrolling!</strong><br/>
-  <i>Let's build something amazing with AI 🚀</i>
-</p>
