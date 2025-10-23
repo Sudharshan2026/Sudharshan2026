@@ -1,14 +1,11 @@
 <!-- Centered Avatar -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/141617032?v=4" width="150" style="border-radius: 50%" alt="Sudharshan's Avatar"/>
-</p>
 
 <!-- Typing Animation Header -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Sudharshan2026">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Sudharshan+👋;AI+Builder+%7C+Problem+Solver;Always+Learning+%26+Building&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
-</p>
+</p> -->
 
 <p align="center"><i>Building intelligent solutions with AI & Machine Learning</i></p>
 
