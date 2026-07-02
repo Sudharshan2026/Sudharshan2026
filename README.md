@@ -1,111 +1,69 @@
-<!-- Centered Avatar -->
+<div align="center"> <a href="https://github.com/Sudharshan2026"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=480&lines=Hey%2C+I'm+Sudharshan+%F0%9F%91%8B;AI+%26+Full-Stack+Builder;ROS2+%7C+LLMs+%7C+Voice+AI;Always+building+something+new" alt="Typing SVG" /> </a> <br/>
 
-<!-- Typing Animation Header -->
-<!-- <p align="center">
-  <a href="https://github.com/Sudharshan2026">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Sudharshan+👋;AI+Builder+%7C+Problem+Solver;Always+Learning+%26+Building&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-  </a>
-</p> -->
+> B.Tech AI & Data Science · Sri Sairam Engineering College · Chennai
 
-<p align="center"><i>Building intelligent solutions with AI & Machine Learning</i></p>
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharshan-b-1227bb280/) [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://sudharshan.me/) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Sudharshan2026) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bshanth0206@gmail.com)
 
-## 🛠️ Currently Working On
-
-- 🤖 Real-time Tamil AI Telecaller (STT + LLM + TTS)
-- 🧠 LangChain-based AI Assistant Playground
-- 🔍 RAG Pipelines for local document Q&A
-- 📱 Building AI-powered mobile flashcard generator
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 🧠 What I'm building
 
-<table>
-<tr>
-  <td width="50%">
-    <h3 align="center">🧠 AI-Q</h3>
-    <p align="center">Generate flashcards from study material using LLMs</p>
-    <p align="center"><a href="https://github.com/Sudharshan2026/AI-Q">🔗 View Project</a></p>
-  </td>
-  <td width="50%">
-    <h3 align="center">💊 MediLedger</h3>
-    <p align="center">AI + Blockchain for transparent pharma supply chain</p>
-    <p align="center"><a href="https://github.com/Sudharshan2026/MediLedger">🔗 View Project</a></p>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <h3 align="center">📞 Tamil AI Telecaller</h3>
-    <p align="center">Speech-to-text, LLM, and Tamil TTS in one seamless call</p>
-    <p align="center"><a href="https://github.com/Sudharshan2026/Tamil-Telecaller">🔗 View Project</a></p>
-  </td>
-</tr>
-</table>
+- 📞 **Tamil AI Telecaller** — real-time STT + LLM + TTS pipeline in Tamil
+- 🔍 **RAG pipelines** for local document Q&A
+- 🃏 **AI flashcard generator** — mobile-first, LLM-powered
+- 🤖 **LangChain AI Assistant Playground**
 
 ---
 
-## 🧰 My AI Arsenal
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whisper-darkblue?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF4081?style=for-the-badge&logo=semantic-release&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TTS--GTTS-orange?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
----
-
-## 💻 Tech Stack
-
-### 🔷 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-### 🔧 AI/ML & Data
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-### 🌐 Web & Deployment
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-<!--
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudharshan2026&theme=radical&show_icons=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sudharshan2026&theme=radical&hide_border=false" width="47%" />
-</p>
-
----
--->
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+|Project|Description|Stack|
+|---|---|---|
+|[**AIVA**](https://github.com/Sudharshan2026)|Voice-first AI medical triage · 10 Indian languages|Next.js 15 · LiveKit · Sarvam AI · Twilio|
+|[**MediLedger**](https://github.com/Sudharshan2026/MediLedger)|Pharma supply chain traceability · 🥈 Hack A Tank 2.0|FastAPI · LangChain · Web3 · React|
+|[**Skillrack Tracker**](https://github.com/Sudharshan2026)|Analytics SaaS · 250+ active users|TypeScript · React · Vite · Tailwind|
+|[**HackTronix & AIRO Sites**](https://github.com/Sudharshan2026)|Event sites · 550+ registrations · 98+ PageSpeed|React · TypeScript · GSAP|
 
 ---
 
-## 🧰 Favorite Tools
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,vercel,ts,nodejs,flask,git,docker,linux,redhat" />
-</p>
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+**Backend & Infra**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
 ---
 
-## 🌐 Connect with Me
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sudharshan-b-1227bb280/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soul.d.king1)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sudharshan2026)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Sudharshan-j5p)
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sudharshan2026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=C9D1D9&rank_icon=github" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharshan2026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=Sudharshan2026&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" /> </div>
 
+---
+
+### 🏆 Trophies
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sudharshan2026&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" /> </div>
+
+---
+
+### 🎖️ Achievements
+
+- 🥈 **2nd place** — Hack A Tank 2.0 (100+ teams) with MediLedger
+- 🏅 **RHCSA Certified** — Red Hat (Jun 2025)
+---
