@@ -62,16 +62,11 @@
 
 ### 🔷 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 ### 🔧 AI/ML & Data
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-
 ### 🌐 Web & Deployment
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -102,7 +97,7 @@
 ## 🧰 Favorite Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,pytorch,vercel,ts,nodejs,flask,figma,git,kubernetes,docker,linux,redhat" />
+  <img src="https://skillicons.dev/icons?i=python,react,vercel,ts,nodejs,flask,git,docker,linux,redhat" />
 </p>
 
 ---
